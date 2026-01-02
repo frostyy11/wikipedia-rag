@@ -8,4 +8,7 @@ Pull a model (if you haven't already):
 `ollama pull mistral`
 
 Run the app:
-`go run main.go` or `go run main.go --model mistral`
+`go run main.go` or `go run main.go --model mistral` or `go build -o rag`
+
+Run the compiled executable:
+`./rag`
