@@ -5,6 +5,7 @@ Make sure Ollama is running:
 Pull a model (if you haven't already):
 `ollama pull mistral`
 
+---
 ### Compilation
 1. Create a directory and save the code:
 ```
