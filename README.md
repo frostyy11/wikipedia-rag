@@ -1,9 +1,5 @@
-### Ollama
-Make sure Ollama is running:
-`ollama serve`
-
-Pull a model (if you haven't already):
-`ollama pull mistral`
+### tgpt
+`https://github.com/aandrew-me/tgpt`
 
 ---
 ### Compilation
