@@ -11,4 +11,4 @@ cd rag-system
 2. Save the code to a file named `main.go`
 3. Initialize the Go module: `go mod init rag-system`
 4. Compile the application: `go build -o rag`
-5. Run the compiled executable: `./rag`
+5. Run the compiled executable: `./rag "what is quantum computing?"`
